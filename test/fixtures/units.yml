@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  period: 2020-08-02
+  value: 9.99
+
+two:
+  period: 2020-08-02
+  value: 9.99
